@@ -1,0 +1,11 @@
+{
+  "name": "custom-redux-thunk",
+  "version": "1.0.0",
+  "description": "Самописная имплементация state manager с поддержкой thunk middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.js\""
+  },
+  "author": "Akimov Oleg",
+  "license": "ISC"
+}
